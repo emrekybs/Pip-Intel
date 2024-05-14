@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red)
 
-# 🌐PIP-INTEL🌐
+# 🌐PIP-INTEL - OSINT and Cyber Intelligence Tool🌐
 # 𝙲𝚘𝚖𝚙𝚛e𝚑e𝚗𝚜𝚒𝚟𝚎 𝙾𝚂𝙸𝙽𝚃 𝚊𝚗𝚍 𝙲𝚢𝚋𝚎𝚛 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 𝚃𝚘𝚘𝚕
 <img src="https://github.com/emrekybs/pip-intel/blob/main/theme.png">
 Pip-Intel is a powerful tool designed for OSINT (Open Source Intelligence) and cyber intelligence gathering activities. 
