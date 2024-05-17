@@ -2,6 +2,8 @@
 
 # 🌐PIP-INTEL - OSINT and Cyber Intelligence Tool🌐
 
+# Tested: Kali-Linux
+
 <img src="https://github.com/emrekybs/pip-intel/blob/main/theme.png">
 Pip-Intel is a powerful tool designed for OSINT (Open Source Intelligence) and cyber intelligence gathering activities. 
 It consolidates various open-source tools into a single user-friendly interface
